@@ -4,8 +4,7 @@ A cross-platform mobile and web application designed to streamline community inv
 
 ## 📷 App Preview
 
-> 🖼️ **[Insert screenshot: App home screen / main navigation]**
-> *Suggested: a full-screen capture of the app's landing view, showing the overall look and feel.*
+<img width="403" height="682" alt="Screenshot 2026-07-16 at 2 38 44 PM" src="https://github.com/user-attachments/assets/6584d2eb-e775-4e4b-b1cf-1498ebbe71bc" />
 
 ## 💡 The Problem & The Solution
 
@@ -64,8 +63,7 @@ This application is built with a decoupled architecture where the UI, Database, 
                                  └────────────────────────────┘
 ```
 
-> 🖼️ **[Insert screenshot: AppSheet Automation "Bot" editor]**
-> *Suggested: a capture of the automation bot's configuration screen showing the trigger conditions and the two tasks (Email + Apps Script).*
+<img width="485" height="566" alt="Screenshot 2026-07-16 at 2 40 10 PM" src="https://github.com/user-attachments/assets/41de823e-22b1-46a9-8025-b94939904914" />
 
 ## 🛠️ Tech Stack & Key Concepts
 
@@ -110,8 +108,7 @@ The system organizes information across three separate tables connected by relat
 - `ReturnDate` (Date)
 - `LoanStatus` (Text: Active, Returned)
 
-> 🖼️ **[Insert screenshot: Google Sheets database view]**
-> *Suggested: a capture showing the three linked tables (Equipment, Borrowers, Loans) in Google Sheets.*
+<img width="618" height="764" alt="Screenshot 2026-07-16 at 2 40 59 PM" src="https://github.com/user-attachments/assets/7afcba5e-1b7e-495b-aa25-5dc7732bd9e7" />
 
 ## ⚡ Integration Spotlight: Google Apps Script
 
@@ -149,24 +146,15 @@ function sendLoanToAPI() {
 }
 ```
 
-> 🖼️ **[Insert screenshot: Apps Script editor / execution log]**
-> *Suggested: a capture of the `sendLoanToAPI()` function in the Apps Script editor, or the execution log showing a successful POST.*
+<img width="1512" height="384" alt="Screenshot 2026-07-16 at 2 42 00 PM" src="https://github.com/user-attachments/assets/4f13a0e2-f238-434d-8d52-75ca7e1d4eda" />
 
 ## 🚀 Key Features
-
-### 📊 Interactive Admin Dashboard
-
-Split-screen multi-view powered by custom Slices to check live inventory at a single glance. Administrators can quickly see available assets on the left and active loans on the right.
-
-> 🖼️ **[Insert screenshot: Admin dashboard split view]**
-> *Suggested: the dashboard showing "Available" items on one side and "On Loan" items on the other.*
 
 ### 📧 Automated Communication
 
 Instant confirmation emails containing receipt details and terms of service are dispatched directly to the borrower's inbox immediately upon checkout, saving manual notification time.
 
-> 🖼️ **[Insert screenshot: Sample confirmation email]**
-> *Suggested: a capture of the HTML email a borrower receives after checkout, showing the receipt and terms of service.*
+<img width="1197" height="581" alt="Screenshot 2026-07-16 at 2 43 07 PM" src="https://github.com/user-attachments/assets/09a2374f-dacc-43bd-9d81-37c39a6a3a3f" />
 
 ### 🤖 State-Aware Bots
 
